@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>hola mundo</h1>
+    <p>parcial 2 de sistemas operativos</p>
 </body>
 </html>
